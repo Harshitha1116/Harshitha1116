@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi there!I'm a student passionate about learning<br> and growing in tech world.🌍<br>I strive to be better for tommorow.🔮<br>I prefer to communicate in English.<br>🎬When I'm not studying,you'll find me watching <br>web series or enjoying some great animations.
+👋Hi there!I'm a student passionate about learning<br> and growing in tech world.🌍<br>I strive to be better for tommorow.🔮<br><br>🎬When I'm not studying,you'll find me watching <br>web series or enjoying some great animations.
 
 
 ## 🌐 Socials:
